@@ -1,0 +1,77 @@
+body{
+   display: flex;
+    margin: 0;
+   
+}
+.meu-nome{
+    text-align: center;
+}
+
+.dsm{
+    text-align: center;
+}
+.cabecalho{
+    background-color: rgba(252.87500202655792, 222.319276034832, 222.319276034832, 1);  
+        position: absolute;
+        width: 100%;
+        height: 603px;
+        left: 0px;
+        top: 0px;
+}
+
+.rodape{
+    background-color: rgba(252.87500202655792, 222.319276034832, 222.319276034832, 1);
+    position: absolute;
+    width: 100%;
+    height: 35px;
+    left: 0px;
+    top: 1024px;
+    
+}
+#direitos{
+   text-align: end;
+}
+.fotoinicial{
+    width: 200px;
+    padding-top: 4%;
+    padding-left: 42%;    
+ }
+ .borda1{
+    text-align: center;
+
+  }
+  #texto1 {
+      padding-top:15% ;
+      position: absolute;
+      padding-top: 55%;
+      padding-left: 42%;
+  }
+
+  .cabecalho2{
+    position: absolute;
+    width: 100%;
+    height: 148px;
+    left: 0px;
+    top: 0px;
+    
+    background: #FDDEDE;
+  }
+
+  .telameio2{
+    position: absolute;
+    width: 95%;
+    height: 688px;
+    left: 47px;
+    top: 193px;
+    background: #FDDEDE;
+    border-radius: 50px;
+  }
+
+  .textotela2{
+    text-align: center;
+}
+
+.texto2{
+    margin-top: 2%;
+    margin-left: 2%;
+}
