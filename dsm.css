@@ -28,6 +28,14 @@ body{
     top: 1024px;
     
 }
+
+.nataliabm{
+    position: absolute;
+    width: 650px;
+    height: 130px;
+    left: 2px;
+    top: 2px;
+}
 #direitos{
    text-align: end;
 }
@@ -60,9 +68,9 @@ body{
   .telameio2{
     position: absolute;
     width: 95%;
-    height: 688px;
+    height: 790px;
     left: 47px;
-    top: 193px;
+    top: 200px;
     background: #FDDEDE;
     border-radius: 50px;
   }
@@ -74,4 +82,36 @@ body{
 .texto2{
     margin-top: 2%;
     margin-left: 2%;
+}
+
+.home{
+    position: absolute;
+    width: 57px;
+    height: 23px;
+    left: 1500px;
+    top: 107px;
+}
+
+.curriculo{
+    position: absolute;
+    width: 106px;
+    height: 23px;
+    left: 1570px;
+    top: 107px;
+}
+
+.contato{
+    position: absolute;
+width: 90px;
+height: 23px;
+left: 1680px;
+top: 107px;
+}
+
+.projetos{
+    position: absolute;
+width: 99px;
+height: 23px;
+left: 1780px;
+top: 107px;
 }
