@@ -1,2 +1,14 @@
-<h4>Link para video</h4>
-https://youtu.be/6uUVdyvPfxE
+<table>
+<tr>
+ <td>Entrega 1 | <a href="https://github.com/lirabessa/desing-digital/releases/tag/V1">Entrega1</a> </td> 
+ <tr>
+ <td>Entrega 2 | <a href="https://github.com/lirabessa/desing-digital/releases/tag/V2">Entrega 2</a></td> 
+</tr>
+</tr>
+</table>
+
+<h1>Link para video</h1>
+
+
+<a href="https://youtu.be/6uUVdyvPfxE">Entrega 1</a>
+<a href="https://youtu.be/cH9xQioa1nk">Entrega 2</a>
