@@ -13,6 +13,8 @@
 <h2>Entrega 2</h2>
 <p>Pasta/portifólio</p>
 
+<h1><a href="https://nataliabessa.herokuapp.com/"> Link para acessar </a></h1>
+
 <h1>Link para video</h1>
 
 
