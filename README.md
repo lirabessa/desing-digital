@@ -2,8 +2,11 @@
 <tr>
  <td>Entrega 1 | <a href="https://github.com/lirabessa/desing-digital/releases/tag/V1">Entrega1</a> </td> 
  <tr>
- <td>Entrega 2 | <a href="https://github.com/lirabessa/desing-digital/releases/tag/V2">Entrega 2</a></td> 
+ <td>Entrega 2 | <a href="https://github.com/lirabessa/desing-digital/releases/tag/V2">Entrega 2</a></td>
+<tr>
+ <td>Entrega 2 | <a href="https://github.com/lirabessa/desing-digital/releases/tag/V3">Entrega final</a></td> 
 </tr>
+
 </tr>
 </table>
 
@@ -15,3 +18,4 @@
 
 <a href="https://youtu.be/6uUVdyvPfxE">Entrega 1</a>
 <a href="https://youtu.be/cH9xQioa1nk">Entrega 2</a>
+
